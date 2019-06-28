@@ -8,7 +8,7 @@ class SelectedGif extends Component {
   render() {
     return (
       <div className="selected-gif">
-
+        <img src='https://www.kcbi.org/wp-content/uploads/2019/03/homer-simpson.jpg' alt="" className="gif"/>
       </div>
     );
   };
